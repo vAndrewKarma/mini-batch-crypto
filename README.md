@@ -15,7 +15,7 @@ Build a secure, scalable, and modular cloud-based data pipeline that:
 ---
 
 ## 🧱 Architecture
-
+```
          +-------------------+
          |  CoinGecko API    |
          +-------------------+
@@ -53,7 +53,7 @@ Build a secure, scalable, and modular cloud-based data pipeline that:
  | - Real-time dashboards           |
  | - Auto-refresh + RLS             |
  +----------------------------------+
-
+```
 ---
 
 ## 🔗 Data Source
