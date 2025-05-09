@@ -1,0 +1,9 @@
+{
+	"name": "factorycoin",
+	"location": "westeurope",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "9990b921-8b9b-410a-8e30-e663d824b235",
+		"tenantId": "a9eef496-c4c3-4c28-a447-7aa78f6e5b11"
+	}
+}
